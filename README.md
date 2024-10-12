@@ -18,6 +18,7 @@
 I am Bharath Kumar, currently working as a Senior Software Developer [LinkedIn](https://www.linkedin.com/in/bharathkumar-dev/). I am very keen to learn new technologies and use them to either create something useful or improve the existing software.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
+
 📫 Reach me via: [bharathkumar.connect@gmail.com](bharathkumar.connect@gmail.com)
 
 Get to Know About me in [**My Portfolio**](https://bharathkumar-portfoliolink.netlify.app/) 
@@ -36,7 +37,7 @@ Get to Know About me in [**My Portfolio**](https://bharathkumar-portfoliolink.ne
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive-25A0E0?logo=api&logoColor=white&color=pink&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-REST%20API-25A0E0?logo=api&logoColor=white&color=brown&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-REST%20API-25A0E0?logo=api&logoColor=white&color=rgb(0, 43, 80)&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -50,7 +51,7 @@ Get to Know About me in [**My Portfolio**](https://bharathkumar-portfoliolink.ne
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://www.linkedin.com/in/bharathkumar-dev/">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" />
+  <a href="https://www.instagram.com/bharathinsights/profilecard/?igsh=eXNybHU5MTNxbDB6">
+    <img src="https://img.shields.io/badge/-Instagram-1DA1F2?logo=Instagram&logoColor=white&color=brown&style=for-the-badge" />
   </a>
 </p>
