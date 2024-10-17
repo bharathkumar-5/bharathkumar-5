@@ -10,13 +10,15 @@
   
    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" style="width: 375px; max-width: 900px; height: 375px; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; max-width: 900px; height: auto; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
-</p>
+</p> 
 
 ---
 <h2>About me</h2>
 
-I am Bharath Kumar, currently working as a Senior Software Developer [LinkedIn](https://www.linkedin.com/in/bharathkumar-dev/). I am very keen to learn new technologies and use them to either create something useful or improve the existing software.   
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains.   
+I am Bharath Kumar, an aspiring Full Stack Web Developer [LinkedIn](https://www.linkedin.com/in/bharathkumar-dev/) with a strong commitment to mastering the latest technologies. I am dedicated to leveraging my skills to create impactful solutions and enhance existing software systems, continually striving for excellence in every project.
+
+⚡ Fun fact: Love to connect with others and hear their unique stories, as it inspires a passion for learning and opens up new perspectives. This exchange enriches personal growth and ignites creativity and collaboration in the professional world.  
+
 💬 Ask me anything, I will be more than happy to help :D
 
 📫 Reach me via: [bharathkumar.connect@gmail.com](bharathkumar.connect@gmail.com)
@@ -24,6 +26,13 @@ I am Bharath Kumar, currently working as a Senior Software Developer [LinkedIn](
 Get to Know About me in [**My Portfolio**](https://bharathkumar-portfoliolink.netlify.app/) 
 
 ---
+
+<h2>GitHub Contributions Overview</h2>
+
+![bharathkumar-5's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar-5&theme=nightowl&hide_border=true)
+![bharathkumar-5's Stats](https://github-readme-stats.vercel.app/api?username=bharathkumar-5&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+
+
 <h2>🛠Tech Stack</h2>
 
 <p align="center">
